@@ -7,5 +7,5 @@ metadata:
     "humanitec.com/appId": "jaytest101"
 spec:
   type: service
-  owner: user:jayonthenet
+  owner: user:default/jayonthenet
   lifecycle: experimental
